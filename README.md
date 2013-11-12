@@ -33,6 +33,16 @@ Linguagem de programação interpretada originalmente implementada como parte do
 * http://www.codecademy.com/pt/tracks/javascript
 * http://www.learn-js.org
 * http://www.learnstreet.com/lessons/study/javascript
+* http://webdevchecklist.com
+* http://browserdiet.com/pt
+
+#### AngularJs
+
+* http://goo.gl/0Cpqts
+
+#### JQuery
+
+* http://www.benplum.com/formstone
 
 ### Git
 
@@ -55,7 +65,6 @@ O Vim (Vi Improved) é uma versão mais poderosa do editor de texto Vi que acomp
 Java é uma linguagem de programação orientada a objetos e uma das grandes referências no mercado de desenvolvimento de software. Java é também uma  plataforma utilizada com outras linguagens como Groovy, Clojure, Jython e JRuby.
 
 * https://www.udemy.com/java-tutorial/
-* 
 
 ### Orientação a objetos
 
@@ -64,8 +73,20 @@ Aprofunde o seu conhecimento conhecendo as melhores práticas na programação o
 * http://cleancoders.com/
 * https://www.destroyallsoftware.com/screencasts
 
+### Design e UX
+
+* http://goodui.org
+* http://semantic-ui.com
+* http://tympanus.net/codrops/2013/09/18/creative-loading-effects
+* http://flaticons.net
+* https://wrapbootstrap.com
+* http://browserdiet.com/pt
+* http://bootsnipp.com
+
 ### Outros
 
 Outras linguagens, frameworks e tecnologias.
 
-* https://www.coursera.org/
+* https://www.coursera.org
+* http://choosealicense.com 
+
