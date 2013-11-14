@@ -6,6 +6,15 @@ Coletânea de links para quem quer ser programador.
 ----------
 
 
+### Arduino
+
+Arduino é uma plataforma que usa hardware e software livres. O objetivo do projeto é criar ferramentas para prototipagem eletrônica que são acessíveis, com baixo custo, flexíveis e fáceis de se usar.
+
+* http://arduino.cc/en/Tutorial/HomePage
+* http://arduino.cc/en/Reference/HomePage
+* http://www.ladyada.net/learn/arduino/
+* http://www.youtube.com/playlist?list=PL813A779A27BB6331 (_Curso de Arduino On line_)
+
 ### Python
 
 Linguagem de programação de alto nível, interpretada, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
