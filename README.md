@@ -48,6 +48,7 @@ Linguagem de programação interpretada originalmente implementada como parte do
 #### AngularJs
 
 * http://goo.gl/0Cpqts
+* http://egghead.io/lessons
 
 #### JQuery
 
